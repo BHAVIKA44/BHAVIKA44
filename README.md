@@ -1,6 +1,4 @@
-mkdir BHAVIKA44 && cd BHAVIKA44
-git init
-cat > README.md << 'EOF'
+
 # Hi, I’m Bhavika Pawani
 
 Software engineer focused on building reliable, scalable systems across scientific and fintech domains.  
@@ -36,9 +34,3 @@ I share practical learnings on engineering and GenAI here:
 
 - [LinkedIn](#)  
 - [Medium](https://medium.com/@bhavikapawani4444)
-EOF
-git add README.md
-git commit -m "Add profile README"
-git branch -M main
-git remote add origin https://github.com/BHAVIKA44/BHAVIKA44.git
-git push -u origin main
