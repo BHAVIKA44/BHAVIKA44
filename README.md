@@ -35,4 +35,4 @@ I like building systems that are easy to reason about. The interesting engineeri
 * Most engineering problems become simpler once the problem statement becomes precise.
 * The goal is not clever code. The goal is code that still makes sense six months later.
 
-> "Curiosity scales better than certainty."
+"Curiosity scales better than certainty."
